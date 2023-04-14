@@ -1,0 +1,2990 @@
+[
+  {
+    "id": 2100,
+    "traits": [
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Gold Stud"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Pizza"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Girl's Hair Short"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Tie Dye"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blindfold"
+      }
+    ],
+    "rarity": 3.558823529411765
+  },
+  {
+    "id": 7800,
+    "traits": [
+      {
+        "trait_type": "Fur",
+        "value": "Cheetah"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Sea Captain's Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Black Holes T"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Kazoo"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Diamond Stud"
+      }
+    ],
+    "rarity": 2.7797619047619047
+  },
+  {
+    "id": 1000,
+    "traits": [
+      {
+        "trait_type": "Eyes",
+        "value": "Hypnotized"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Phoneme  ooo"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Toga"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Prussian Helmet"
+      }
+    ],
+    "rarity": 2.770944741532977
+  },
+  {
+    "id": 5900,
+    "traits": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Tongue Out"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Trippy Captain's Hat"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Cream"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "3d"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Tweed Suit"
+      }
+    ],
+    "rarity": 2.7075757575757575
+  },
+  {
+    "id": 8000,
+    "traits": [
+      {
+        "trait_type": "Clothes",
+        "value": "Space Suit"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven Pipe"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Hoop"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Irish Boho"
+      }
+    ],
+    "rarity": 2.3916157372039724
+  },
+  {
+    "id": 0,
+    "traits": [
+      {
+        "trait_type": "Earring",
+        "value": "Silver Hoop"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Robot"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Striped Tee"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Discomfort"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "X Eyes"
+      }
+    ],
+    "rarity": 2.320075757575758
+  },
+  {
+    "id": 1900,
+    "traits": [
+      {
+        "trait_type": "Mouth",
+        "value": "Small Grin"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Sleeveless Logo T"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bloodshot"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Gold Hoop"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bowler"
+      }
+    ],
+    "rarity": 2.2016806722689073
+  },
+  {
+    "id": 2200,
+    "traits": [
+      {
+        "trait_type": "Mouth",
+        "value": "Phoneme  ooo"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Army Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Scumbag"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Hawaiian"
+      }
+    ],
+    "rarity": 2.1547619047619047
+  },
+  {
+    "id": 1700,
+    "traits": [
+      {
+        "trait_type": "Mouth",
+        "value": "Rage"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Closed"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Work Vest"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Halo"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      }
+    ],
+    "rarity": 2.152020202020202
+  },
+  {
+    "id": 4400,
+    "traits": [
+      {
+        "trait_type": "Mouth",
+        "value": "Phoneme Oh"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Solid Gold"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Tanktop"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Fisherman's Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Heart"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine"
+      }
+    ],
+    "rarity": 2.0921568627450977
+  },
+  {
+    "id": 3600,
+    "traits": [
+      {
+        "trait_type": "Fur",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Robot"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Pimp Coat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Cigarette"
+      },
+      {
+        "trait_type": "Background",
+        "value": "New Punk Blue"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Sea Captain's Hat"
+      }
+    ],
+    "rarity": 2.011446886446886
+  },
+  {
+    "id": 6700,
+    "traits": [
+      {
+        "trait_type": "Eyes",
+        "value": "Crazy"
+      },
+      {
+        "trait_type": "Background",
+        "value": "New Punk Blue"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Commie Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven Kazoo"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Blue"
+      }
+    ],
+    "rarity": 2.0095238095238095
+  },
+  {
+    "id": 9000,
+    "traits": [
+      {
+        "trait_type": "Eyes",
+        "value": "Coins"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Horns"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grin"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Leather Jacket"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Gold Stud"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Tan"
+      }
+    ],
+    "rarity": 2.003113553113553
+  },
+  {
+    "id": 9100,
+    "traits": [
+      {
+        "trait_type": "Clothes",
+        "value": "Tuxedo Tee"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Zombie"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Jovial"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Ww2 Pilot Helm"
+      }
+    ],
+    "rarity": 1.9376114081996434
+  },
+  {
+    "id": 3400,
+    "traits": [
+      {
+        "trait_type": "Clothes",
+        "value": "Guayabera"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bloodshot"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Irish Boho"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven Party horn"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      }
+    ],
+    "rarity": 1.904220779220779
+  },
+  {
+    "id": 2900,
+    "traits": [
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Party Hat 1"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Lab Coat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Golden Brown"
+      }
+    ],
+    "rarity": 1.9002164502164502
+  },
+  {
+    "id": 3100,
+    "traits": [
+      {
+        "trait_type": "Eyes",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Hoop"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Jovial"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Sailor Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Laurel Wreath"
+      }
+    ],
+    "rarity": 1.8911255411255412
+  },
+  {
+    "id": 5100,
+    "traits": [
+      {
+        "trait_type": "Eyes",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Phoneme Oh"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "S&m Hat"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Striped Tee"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      }
+    ],
+    "rarity": 1.8623376623376624
+  },
+  {
+    "id": 1200,
+    "traits": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Cheetah"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sleepy"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Cigarette"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Short Mohawk"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Navy Striped Tee"
+      }
+    ],
+    "rarity": 1.8205128205128205
+  },
+  {
+    "id": 5800,
+    "traits": [
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven Pizza"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bayc Hat Black"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sleepy"
+      }
+    ],
+    "rarity": 1.7954545454545456
+  },
+  {
+    "id": 2300,
+    "traits": [
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Leather Punk Jacket"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Robot"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Army Hat"
+      }
+    ],
+    "rarity": 1.7736111111111112
+  },
+  {
+    "id": 8900,
+    "traits": [
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Girl's Hair Pink"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sleepy"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven Cigarette"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Black Holes T"
+      }
+    ],
+    "rarity": 1.7716450216450215
+  },
+  {
+    "id": 1800,
+    "traits": [
+      {
+        "trait_type": "Eyes",
+        "value": "Zombie"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Hoop"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Beanie"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Work Vest"
+      }
+    ],
+    "rarity": 1.7474747474747474
+  },
+  {
+    "id": 9500,
+    "traits": [
+      {
+        "trait_type": "Clothes",
+        "value": "Striped Tee"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Closed"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Sushi Chef Headband"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown"
+      }
+    ],
+    "rarity": 1.7413632119514473
+  },
+  {
+    "id": 600,
+    "traits": [
+      {
+        "trait_type": "Eyes",
+        "value": "Sunglasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Cigarette"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Gold Hoop"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Guayabera"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Pink"
+      }
+    ],
+    "rarity": 1.7316849816849818
+  },
+  {
+    "id": 3800,
+    "traits": [
+      {
+        "trait_type": "Mouth",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Golden Brown"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Lumberjack Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Safari"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bloodshot"
+      }
+    ],
+    "rarity": 1.7008116883116884
+  },
+  {
+    "id": 6300,
+    "traits": [
+      {
+        "trait_type": "Eyes",
+        "value": "Sad"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Baby's Bonnet"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Work Vest"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven Cigarette"
+      }
+    ],
+    "rarity": 1.6587301587301586
+  },
+  {
+    "id": 5700,
+    "traits": [
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Police Motorcycle Helmet"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Hip Hop"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Zombie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored"
+      }
+    ],
+    "rarity": 1.6534090909090908
+  },
+  {
+    "id": 400,
+    "traits": [
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Tie Dye"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Cyborg"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Fisherman's Hat"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Phoneme Wah"
+      }
+    ],
+    "rarity": 1.6428571428571428
+  },
+  {
+    "id": 8400,
+    "traits": [
+      {
+        "trait_type": "Hat",
+        "value": "Bayc Flipped Brim"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grin Gold Grill"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blindfold"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Blue Dress"
+      }
+    ],
+    "rarity": 1.6339285714285714
+  },
+  {
+    "id": 1300,
+    "traits": [
+      {
+        "trait_type": "Background",
+        "value": "Army Green"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Jovial"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Sea Captain's Hat"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Hip Hop"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Zombie"
+      }
+    ],
+    "rarity": 1.6297619047619047
+  },
+  {
+    "id": 4200,
+    "traits": [
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Irish Boho"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Prison Jumpsuit"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Cream"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sad"
+      }
+    ],
+    "rarity": 1.5949346405228757
+  },
+  {
+    "id": 1600,
+    "traits": [
+      {
+        "trait_type": "Eyes",
+        "value": "Bloodshot"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Puffy Vest"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven Cigarette"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Golden Brown"
+      }
+    ],
+    "rarity": 1.5857142857142856
+  },
+  {
+    "id": 2800,
+    "traits": [
+      {
+        "trait_type": "Fur",
+        "value": "Cheetah"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven Dagger"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sleepy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Tuxedo Tee"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bayc Flipped Brim"
+      }
+    ],
+    "rarity": 1.5624999999999998
+  },
+  {
+    "id": 6900,
+    "traits": [
+      {
+        "trait_type": "Hat",
+        "value": "Bunny Ears"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Tweed Suit"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Pipe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angry"
+      }
+    ],
+    "rarity": 1.550595238095238
+  },
+  {
+    "id": 1100,
+    "traits": [
+      {
+        "trait_type": "Earring",
+        "value": "Cross"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Blue Dress"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Cream"
+      }
+    ],
+    "rarity": 1.5254901960784313
+  },
+  {
+    "id": 7500,
+    "traits": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Leather Jacket"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Phoneme Wah"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Coins"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bunny Ears"
+      }
+    ],
+    "rarity": 1.5197802197802195
+  },
+  {
+    "id": 4300,
+    "traits": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Spinner Hat"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Tie Dye"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven Dagger"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "3d"
+      }
+    ],
+    "rarity": 1.5166666666666668
+  },
+  {
+    "id": 6000,
+    "traits": [
+      {
+        "trait_type": "Fur",
+        "value": "Robot"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Sushi Chef Headband"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Bone Tee"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Wide Eyed"
+      }
+    ],
+    "rarity": 1.503030303030303
+  },
+  {
+    "id": 8800,
+    "traits": [
+      {
+        "trait_type": "Earring",
+        "value": "Cross"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Cigarette"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Vietnam Era Helmet"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Zombie"
+      }
+    ],
+    "rarity": 1.5024132730015083
+  },
+  {
+    "id": 9400,
+    "traits": [
+      {
+        "trait_type": "Mouth",
+        "value": "Phoneme Vuh"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Cowboy Hat"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Holographic"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      }
+    ],
+    "rarity": 1.474621212121212
+  },
+  {
+    "id": 6800,
+    "traits": [
+      {
+        "trait_type": "Background",
+        "value": "New Punk Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Closed"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Dumbfounded"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Hoop"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Sushi Chef Headband"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Bandolier"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Gray"
+      }
+    ],
+    "rarity": 1.455988455988456
+  },
+  {
+    "id": 4900,
+    "traits": [
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Bandolier"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Prussian Helmet"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Phoneme Oh"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "3d"
+      }
+    ],
+    "rarity": 1.4502164502164503
+  },
+  {
+    "id": 100,
+    "traits": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Cigarette"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Party Hat 2"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Wide Eyed"
+      }
+    ],
+    "rarity": 1.4483516483516483
+  },
+  {
+    "id": 900,
+    "traits": [
+      {
+        "trait_type": "Eyes",
+        "value": "Blindfold"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Hawaiian"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Small Grin"
+      }
+    ],
+    "rarity": 1.4254901960784314
+  },
+  {
+    "id": 4500,
+    "traits": [
+      {
+        "trait_type": "Mouth",
+        "value": "Rage"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sad"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Hoop"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Seaman's Hat"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Smoking Jacket"
+      }
+    ],
+    "rarity": 1.4077311577311578
+  },
+  {
+    "id": 5600,
+    "traits": [
+      {
+        "trait_type": "Fur",
+        "value": "Zombie"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Cowboy Hat"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Gold Hoop"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven Cigarette"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Striped Tee"
+      }
+    ],
+    "rarity": 1.3683473389355743
+  },
+  {
+    "id": 4100,
+    "traits": [
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Phoneme  ooo"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eyepatch"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Cheetah"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bowler"
+      }
+    ],
+    "rarity": 1.3575757575757574
+  },
+  {
+    "id": 9700,
+    "traits": [
+      {
+        "trait_type": "Background",
+        "value": "Army Green"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Death Bot"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Smoking Jacket"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Wide Eyed"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Fez"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored"
+      }
+    ],
+    "rarity": 1.3335497835497836
+  },
+  {
+    "id": 1400,
+    "traits": [
+      {
+        "trait_type": "Eyes",
+        "value": "Sad"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grin"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Tanktop"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Hoop"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Fez"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Zombie"
+      }
+    ],
+    "rarity": 1.2978535353535352
+  },
+  {
+    "id": 4600,
+    "traits": [
+      {
+        "trait_type": "Mouth",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Biker Vest"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Crazy"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Fez"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Tan"
+      }
+    ],
+    "rarity": 1.2835497835497833
+  },
+  {
+    "id": 1500,
+    "traits": [
+      {
+        "trait_type": "Hat",
+        "value": "Irish Boho"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Closed"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Tuxedo Tee"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Discomfort"
+      }
+    ],
+    "rarity": 1.2638888888888888
+  },
+  {
+    "id": 9300,
+    "traits": [
+      {
+        "trait_type": "Eyes",
+        "value": "Sunglasses"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Black Holes T"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Gold Stud"
+      }
+    ],
+    "rarity": 1.2547619047619047
+  },
+  {
+    "id": 5500,
+    "traits": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Bone Tee"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Phoneme  ooo"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Zombie"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bowler"
+      }
+    ],
+    "rarity": 1.2172619047619047
+  },
+  {
+    "id": 800,
+    "traits": [
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sunglasses"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Wool Turtleneck"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Spinner Hat"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      }
+    ],
+    "rarity": 1.2079545454545453
+  },
+  {
+    "id": 8600,
+    "traits": [
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Cigarette"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Spinner Hat"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Bayc T Red"
+      },
+      {
+        "trait_type": "Background",
+        "value": "New Punk Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored"
+      }
+    ],
+    "rarity": 1.2078754578754578
+  },
+  {
+    "id": 5000,
+    "traits": [
+      {
+        "trait_type": "Background",
+        "value": "New Punk Blue"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Party Hat 1"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Blue Dress"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Gray"
+      }
+    ],
+    "rarity": 1.204184704184704
+  },
+  {
+    "id": 7300,
+    "traits": [
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Bayc T Red"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Robot"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Safari"
+      }
+    ],
+    "rarity": 1.2
+  },
+  {
+    "id": 8300,
+    "traits": [
+      {
+        "trait_type": "Background",
+        "value": "New Punk Blue"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Sea Captain's Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Bandolier"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sad"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Death Bot"
+      }
+    ],
+    "rarity": 1.191089466089466
+  },
+  {
+    "id": 7900,
+    "traits": [
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "White"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Fisherman's Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grin Gold Grill"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sad"
+      }
+    ],
+    "rarity": 1.1699346405228759
+  },
+  {
+    "id": 4700,
+    "traits": [
+      {
+        "trait_type": "Eyes",
+        "value": "Cyborg"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Commie Hat"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Golden Brown"
+      }
+    ],
+    "rarity": 1.162121212121212
+  },
+  {
+    "id": 4000,
+    "traits": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Cowboy Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bloodshot"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Stunt Jacket"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grin"
+      }
+    ],
+    "rarity": 1.1319014319014318
+  },
+  {
+    "id": 2400,
+    "traits": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Pipe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Closed"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Irish Boho"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Tweed Suit"
+      }
+    ],
+    "rarity": 1.1315656565656564
+  },
+  {
+    "id": 6600,
+    "traits": [
+      {
+        "trait_type": "Clothes",
+        "value": "Biker Vest"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Fisherman's Hat"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Cigarette"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Closed"
+      }
+    ],
+    "rarity": 1.1261294261294261
+  },
+  {
+    "id": 9800,
+    "traits": [
+      {
+        "trait_type": "Eyes",
+        "value": "Closed"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Leather Jacket"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Vietnam Era Helmet"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Phoneme Vuh"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      }
+    ],
+    "rarity": 1.1236111111111111
+  },
+  {
+    "id": 3500,
+    "traits": [
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Zombie"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Cowboy Hat"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Striped Tee"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Hoop"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Phoneme Vuh"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Coins"
+      }
+    ],
+    "rarity": 1.1004329004329003
+  },
+  {
+    "id": 2700,
+    "traits": [
+      {
+        "trait_type": "Clothes",
+        "value": "Leather Jacket"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Dumbfounded"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bunny Ears"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored"
+      }
+    ],
+    "rarity": 1.053113553113553
+  },
+  {
+    "id": 3000,
+    "traits": [
+      {
+        "trait_type": "Fur",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grin"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Black T"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Hoop"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "3d"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Fisherman's Hat"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      }
+    ],
+    "rarity": 1.0484848484848484
+  },
+  {
+    "id": 8700,
+    "traits": [
+      {
+        "trait_type": "Clothes",
+        "value": "Stunt Jacket"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Phoneme  ooo"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Heart"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Tan"
+      }
+    ],
+    "rarity": 1.0333333333333334
+  },
+  {
+    "id": 7700,
+    "traits": [
+      {
+        "trait_type": "Hat",
+        "value": "Irish Boho"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Closed"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Sleeveless T"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "White"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven Cigarette"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      }
+    ],
+    "rarity": 1.0248015873015872
+  },
+  {
+    "id": 3900,
+    "traits": [
+      {
+        "trait_type": "Eyes",
+        "value": "Eyepatch"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Irish Boho"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Black T"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored"
+      }
+    ],
+    "rarity": 1.0247326203208555
+  },
+  {
+    "id": 200,
+    "traits": [
+      {
+        "trait_type": "Eyes",
+        "value": "Heart"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Leather Jacket"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Cowboy Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Cigarette"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Death Bot"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      }
+    ],
+    "rarity": 1.0205128205128204
+  },
+  {
+    "id": 8100,
+    "traits": [
+      {
+        "trait_type": "Clothes",
+        "value": "Tanktop"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Cigarette"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sad"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Seaman's Hat"
+      }
+    ],
+    "rarity": 1.0142246642246642
+  },
+  {
+    "id": 5400,
+    "traits": [
+      {
+        "trait_type": "Mouth",
+        "value": "Small Grin"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Sea Captain's Hat"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Sailor Shirt"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sleepy"
+      }
+    ],
+    "rarity": 1.0113636363636362
+  },
+  {
+    "id": 3300,
+    "traits": [
+      {
+        "trait_type": "Clothes",
+        "value": "Sleeveless T"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Heart"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Cream"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven Cigarette"
+      }
+    ],
+    "rarity": 0.9837662337662338
+  },
+  {
+    "id": 2600,
+    "traits": [
+      {
+        "trait_type": "Hat",
+        "value": "Safari"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Wool Turtleneck"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "3d"
+      }
+    ],
+    "rarity": 0.9502164502164502
+  },
+  {
+    "id": 2000,
+    "traits": [
+      {
+        "trait_type": "Hat",
+        "value": "Sea Captain's Hat"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Wide Eyed"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Hip Hop"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      }
+    ],
+    "rarity": 0.9319444444444445
+  },
+  {
+    "id": 8200,
+    "traits": [
+      {
+        "trait_type": "Background",
+        "value": "Army Green"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Phoneme Vuh"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Heart"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Navy Striped Tee"
+      }
+    ],
+    "rarity": 0.915873015873016
+  },
+  {
+    "id": 7000,
+    "traits": [
+      {
+        "trait_type": "Clothes",
+        "value": "Smoking Jacket"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Gold Hoop"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Zombie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored"
+      }
+    ],
+    "rarity": 0.8997326203208555
+  },
+  {
+    "id": 7100,
+    "traits": [
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sleepy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Tweed Suit"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Phoneme Vuh"
+      }
+    ],
+    "rarity": 0.8992063492063491
+  },
+  {
+    "id": 7400,
+    "traits": [
+      {
+        "trait_type": "Eyes",
+        "value": "Robot"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Sleeveless T"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Cowboy Hat"
+      }
+    ],
+    "rarity": 0.8876114081996435
+  },
+  {
+    "id": 3200,
+    "traits": [
+      {
+        "trait_type": "Mouth",
+        "value": "Grin"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Sailor Shirt"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bloodshot"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Blue"
+      }
+    ],
+    "rarity": 0.8642857142857143
+  },
+  {
+    "id": 6100,
+    "traits": [
+      {
+        "trait_type": "Eyes",
+        "value": "Wide Eyed"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Wool Turtleneck"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Cream"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored"
+      }
+    ],
+    "rarity": 0.8412878787878788
+  },
+  {
+    "id": 300,
+    "traits": [
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Coins"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bayc Hat Black"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored"
+      }
+    ],
+    "rarity": 0.8337662337662337
+  },
+  {
+    "id": 9600,
+    "traits": [
+      {
+        "trait_type": "Eyes",
+        "value": "Robot"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Cheetah"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Safari"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Phoneme  ooo"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      }
+    ],
+    "rarity": 0.8269230769230769
+  },
+  {
+    "id": 5200,
+    "traits": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Seaman's Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Black T"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored"
+      }
+    ],
+    "rarity": 0.8168831168831168
+  },
+  {
+    "id": 500,
+    "traits": [
+      {
+        "trait_type": "Hat",
+        "value": "Army Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Coins"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Cheetah"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Cigarette"
+      }
+    ],
+    "rarity": 0.8106893106893107
+  },
+  {
+    "id": 7600,
+    "traits": [
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sad"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Fez"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Sleeveless T"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored"
+      }
+    ],
+    "rarity": 0.7994227994227994
+  },
+  {
+    "id": 6500,
+    "traits": [
+      {
+        "trait_type": "Background",
+        "value": "New Punk Blue"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "White"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Irish Boho"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Coins"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored"
+      }
+    ],
+    "rarity": 0.7895021645021645
+  },
+  {
+    "id": 8500,
+    "traits": [
+      {
+        "trait_type": "Hat",
+        "value": "Sea Captain's Hat"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bloodshot"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Hoop"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Work Vest"
+      }
+    ],
+    "rarity": 0.783008658008658
+  },
+  {
+    "id": 5300,
+    "traits": [
+      {
+        "trait_type": "Hat",
+        "value": "Fisherman's Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Dumbfounded"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Closed"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      }
+    ],
+    "rarity": 0.7825396825396825
+  },
+  {
+    "id": 6200,
+    "traits": [
+      {
+        "trait_type": "Eyes",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Bone Tee"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Sea Captain's Hat"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Cigarette"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      }
+    ],
+    "rarity": 0.780927405927406
+  },
+  {
+    "id": 9200,
+    "traits": [
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Crazy"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Leather Jacket"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine"
+      }
+    ],
+    "rarity": 0.7757066462948815
+  },
+  {
+    "id": 4800,
+    "traits": [
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Coins"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Commie Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven Cigarette"
+      }
+    ],
+    "rarity": 0.7645021645021643
+  },
+  {
+    "id": 2500,
+    "traits": [
+      {
+        "trait_type": "Mouth",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Robot"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Navy Striped Tee"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      }
+    ],
+    "rarity": 0.7334887334887334
+  },
+  {
+    "id": 700,
+    "traits": [
+      {
+        "trait_type": "Eyes",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Seaman's Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      }
+    ],
+    "rarity": 0.6983516483516483
+  },
+  {
+    "id": 9900,
+    "traits": [
+      {
+        "trait_type": "Hat",
+        "value": "Bayc Flipped Brim"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Hoop"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      }
+    ],
+    "rarity": 0.6894771894771894
+  },
+  {
+    "id": 3700,
+    "traits": [
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Cigarette"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Sailor Shirt"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sad"
+      }
+    ],
+    "rarity": 0.6863858363858364
+  },
+  {
+    "id": 7200,
+    "traits": [
+      {
+        "trait_type": "Clothes",
+        "value": "Black T"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "3d"
+      }
+    ],
+    "rarity": 0.6246212121212121
+  },
+  {
+    "id": 6400,
+    "traits": [
+      {
+        "trait_type": "Eyes",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Golden Brown"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Striped Tee"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Cigarette"
+      }
+    ],
+    "rarity": 0.5919413919413918
+  }
+]
