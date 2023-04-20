@@ -5,7 +5,7 @@ const abi = require('./abi.json')
 
 
 const contractAddress = '0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D'
-const provider = new Web3.providers.HttpProvider('https://mainnet.infura.io/v3/98d928c916574dda81fdde8e3cafa392')
+const provider = new Web3.providers.HttpProvider('INFURA_ADDRESS')
 const web3 = new Web3(provider)
 const contract = new web3.eth.Contract(abi, contractAddress)
 
